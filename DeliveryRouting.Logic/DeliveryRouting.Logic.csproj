@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeocodeSharp" Version="1.5.0" />
+    <PackageReference Include="System.Spatial" Version="5.8.3" />
+  </ItemGroup>
+
+</Project>
